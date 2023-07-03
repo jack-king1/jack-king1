@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A Games Technology Graduate learning web development!</h3>
+<h3 align="center">A Games Technology Graduate Bsc learning web development!</h3>
 
 - 🔭 I’m currently working on [Tickety](https://github.com/jack-king1/react-ecommerce-site)
 
